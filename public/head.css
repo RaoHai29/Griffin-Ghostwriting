@@ -1,0 +1,13 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    z-index: 100;
+    margin: 0 auto;
+    box-shadow: var(--shadow-medium);
+    background-color: #03222f;
+    border-bottom: 2px solid #124e66;
+    transition: 0.2s;
+}
